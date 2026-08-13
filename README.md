@@ -20,5 +20,4 @@ market-regime-detection-hmm/
 ├── hmm.py          # Gaussian HMM class (Baum-Welch & Forward-Backward algorithms)
 ├── simulator.py    # Synthetic regime-switching financial time-series generator
 ├── main.py         # Model training, regime inference, and visualization
-├── requirements.txt
 └── README.md
